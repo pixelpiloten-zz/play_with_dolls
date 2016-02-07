@@ -1,4 +1,10 @@
-# Install instructions
+# Description
+Just a small tool for getting started with docker on OSX that installs:
+* dlite - With /srv/www as shared folder.
+* docker
+* docker-compose
+
+# Instructions
 
 First clone the repo to your folder of choice.
 
@@ -17,3 +23,6 @@ Run the install.
 ```
 ./install.sh
 ```
+
+Voila!
+You now have docker running nativly on OSX. Go ahead and dockerize all teh things!
