@@ -32,7 +32,7 @@ Voila!
 You now have docker running nativly on OSX. Go ahead and dockerize all teh things!
 
 # Resources
-dlite - https://github.com/nlf/dlite
-Homebrew - http://brew.sh
-Docker - https://docs.docker.com
-Docker Compose - https://docs.docker.com/compose 
+* dlite - https://github.com/nlf/dlite
+* Homebrew - http://brew.sh
+* Docker - https://docs.docker.com
+* Docker Compose - https://docs.docker.com/compose 
