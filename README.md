@@ -4,6 +4,10 @@ Just a small tool for getting started with docker on OSX that installs:
 * docker
 * docker-compose
 
+# Requirements
+* OSX 10.10 (Yosemite)
+* Homebrew
+
 # Instructions
 
 First clone the repo to your folder of choice.
@@ -26,3 +30,9 @@ Run the install.
 
 Voila!
 You now have docker running nativly on OSX. Go ahead and dockerize all teh things!
+
+# Resources
+dlite - https://github.com/nlf/dlite
+Homebrew - http://brew.sh
+Docker - https://docs.docker.com
+Docker Compose - https://docs.docker.com/compose 
