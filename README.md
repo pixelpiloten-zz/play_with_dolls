@@ -1,6 +1,6 @@
 # Description
 Just a small tool for getting started with docker on OSX that installs:
-* dlite - With /srv/www as shared folder.
+* dlite - With /User/*yourusername*/WebDev as shared folder.
 * docker
 * docker-compose
 
@@ -29,7 +29,7 @@ Run the install.
 ```
 
 Voila!
-You now have docker running nativly on OSX. Go ahead and dockerize all teh things!
+You now have docker running "nativly" on OSX. Go ahead and dockerize all teh things!
 
 # Resources
 * dlite - https://github.com/nlf/dlite

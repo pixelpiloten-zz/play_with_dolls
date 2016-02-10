@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 WEBDEV_SHARE=/Users/$USER/WebDev
 if [ ! -d "$WEBDEV_SHARE" ]; then
-  mkdir /Users/$USER/WebDev
+  mkdir $WEBDEV_SHARE
 fi
 brew update
 brew install dlite
